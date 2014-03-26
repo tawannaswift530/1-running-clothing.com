@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /running_17/
+Sitemap: http://www.1-running-clothing.com/sitemap.xml 
